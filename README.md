@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flutter, NextJS and Laravel.
+- 🌱 I’m currently learning Flutter and iOS development.
 - 🔭 I’m currently working on my MacBook Pro 14"
 
 <!--
