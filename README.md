@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Flutter and iOS development.
-- 🔭 I’m currently working on my MacBook Pro 14"
+- 🔭 I’m currently working on my MacBook Pro 14" M1 Pro
 
 <!--
 **FrekiManagarm/FrekiManagarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
