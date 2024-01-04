@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flutter and iOS development.
+- 🌱 My Stack : Flutter, SwiftUI/UIKit, ReactJS/NextJS, NestJS/NodeJS, PostgreSQL/MongoDB.
 - 🔭 Everyday working on my MacBook Pro 14" M1 Pro
 
 <!--
