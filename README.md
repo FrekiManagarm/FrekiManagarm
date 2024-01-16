@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-- 🌱 My Stack : Flutter, SwiftUI/UIKit, ReactJS/NextJS, NestJS/NodeJS, PostgreSQL/MongoDB.
 - 🔭 Everyday working on my MacBook Pro 14" M1 Pro
 
+### 💻 My Stack
+- **Front-end**: ReactJS/NextJS, TailwindCSS, Flutter, SwiftUI
+- **Back-end**: Laravel, NodeJS, NestJS
+- **Database**: PostgreSQL, MongoDB
+- **Tools**: Visual Studio Code, Xcode
+- **Cloud**: Vercel, AWS
+- **API**: REST, GraphQL
 <!--
 **FrekiManagarm/FrekiManagarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
