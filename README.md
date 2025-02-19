@@ -3,7 +3,7 @@
 - 🔭 Everyday working on my MacBook Pro 14" M1 Pro
 
 ### 💻 My Stack
-- **Front-end**: ReactJS/NextJS, TailwindCSS, Flutter, SwiftUI
+- **Front-end**: ReactJS/NextJS, TailwindCSS, Flutter, SwiftUI, Remix
 - **Back-end**: Laravel, NodeJS, NestJS
 - **Database**: PostgreSQL, MongoDB
 - **Tools**: Cursor AI, Xcode
