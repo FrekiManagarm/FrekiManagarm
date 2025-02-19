@@ -6,8 +6,8 @@
 - **Front-end**: ReactJS/NextJS, TailwindCSS, Flutter, SwiftUI
 - **Back-end**: Laravel, NodeJS, NestJS
 - **Database**: PostgreSQL, MongoDB
-- **Tools**: Visual Studio Code, Xcode
-- **Cloud**: Vercel, AWS
+- **Tools**: Cursor AI, Xcode
+- **Cloud**: Vercel, AWS, Coolify
 - **API**: REST, GraphQL
 <!--
 **FrekiManagarm/FrekiManagarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
