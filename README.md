@@ -4,7 +4,7 @@
 
 ### 💻 My Stack
 - **Front-end**: ReactJS/NextJS, TailwindCSS, Flutter, SwiftUI, Remix
-- **Back-end**: Laravel, NodeJS, NestJS
+- **Back-end**: Laravel, NodeJS, NestJS, Encore
 - **Database**: PostgreSQL, MongoDB
 - **Tools**: Cursor AI, Xcode
 - **Cloud**: Vercel, AWS, Coolify
