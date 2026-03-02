@@ -8,7 +8,7 @@
 - **Backend**: Laravel, NodeJS, NestJS, Encore.dev, Hono
 - **Database**: PostgreSQL, MongoDB, MySQL
 - **Tools**: Cursor AI, Zed, Claude Code, Xcode
-- **AI**: Mastra
+- **AI automation**: Mastra, n8n
 - **Cloud**: Vercel, AWS, Coolify, Docker
 <!--
 **FrekiManagarm/FrekiManagarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
