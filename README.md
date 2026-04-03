@@ -1,7 +1,3 @@
-### Hi there 👋
-
-- 🔭 Everyday working on my MacBook Pro 14" M1 Pro
-
 ### 💻 My Stack
 - **Frontend**: ReactJS/NextJS, Flutter, SwiftUI, Tanstack Start, React Native
 - **Design**: TailwindCSS, Shadcn/UI, BaseUI
