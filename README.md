@@ -7,7 +7,7 @@
 - **Design**: TailwindCSS, Shadcn/UI, BaseUI
 - **Backend**: Laravel, NodeJS, NestJS, Encore.dev, Hono
 - **Database**: PostgreSQL, MongoDB, MySQL
-- **Tools**: Cursor AI, Zed, Claude Code, Xcode
+- **Tools**: Claude Code, Zed, Xcode
 - **AI automation**: Mastra, n8n, Vercel AI SDK
 - **Cloud**: Vercel, AWS, Coolify, Docker
 <!--
