@@ -1,5 +1,5 @@
 ### 💻 My Stack
-- **Frontend**: ReactJS/NextJS, Flutter, SwiftUI, Tanstack Start, React Native
+- **Frontend**: ReactJS/NextJS, Tanstack Start, Flutter, React Native
 - **Design**: TailwindCSS, Shadcn/UI, BaseUI
 - **Backend**: Laravel, NodeJS, NestJS, Encore.dev, Rust
 - **Database**: PostgreSQL, MongoDB, MySQL
