@@ -1,7 +1,7 @@
 ### 💻 My Stack
 - **Frontend**: ReactJS/NextJS, Flutter, SwiftUI, Tanstack Start, React Native
 - **Design**: TailwindCSS, Shadcn/UI, BaseUI
-- **Backend**: Laravel, NodeJS, NestJS, Encore.dev, Hono
+- **Backend**: Laravel, NodeJS, NestJS, Encore.dev, Rust
 - **Database**: PostgreSQL, MongoDB, MySQL
 - **Tools**: Claude Code, Zed, Xcode
 - **AI automation**: Mastra, n8n, Vercel AI SDK
